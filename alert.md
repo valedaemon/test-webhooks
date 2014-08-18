@@ -1,1 +1,1 @@
-One more **test** alert! Woohoo!
+One more **test** alert!
