@@ -1,1 +1,1 @@
-This is a draft alert!
+This is a draft alert! It supports **markdown**!
